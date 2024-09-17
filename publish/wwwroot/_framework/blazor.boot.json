@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Checker",
   "resources": {
-    "hash": "sha256-aREXuRfLexEk8xZHOSpwfrSrtXkHl9st9R+X8Bj+E8I=",
+    "hash": "sha256-S8oqarLRj5RI7239NMA20v4cyOWMvm8L8/RbWhNJ/mg=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.zcb7af6ckr.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "BCrypt.Net-Next.wasm": "sha256-vn1+CLDQA7cXT++8crd9GTBHootDpHMDJ06/FyiImpA=",
       "Blazor.SessionStorage.wasm": "sha256-0WygZAYrN/eXcktDPa51pw/VOOsqI/jZH0uLegt5Ggk=",
-      "Checker.wasm": "sha256-PjFrO8fzGYd3O6VHBLEcpGBVKUjERv5pG0C5HQVSDfY=",
+      "Checker.wasm": "sha256-69rpP3egLWWbdapD7R9s6IWMXlfsNkG3a9OOKHUz210=",
       "Fluxor.Blazor.Web.ReduxDevTools.wasm": "sha256-jDE1ZNbW4Ejki3o6xiZhe09Wz3ggxn9eZ1/1cRF/I7c=",
       "Fluxor.Blazor.Web.wasm": "sha256-EQY4gKqrJmDxIMv//eRwx0R5QItoj2wrFMh9SGea6RE=",
       "Fluxor.wasm": "sha256-QxsT3q2RKCTpONQ/VtLJDj0LKq/xEGj9veYEqkI/PSI=",
