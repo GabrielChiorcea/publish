@@ -1,3 +1,11 @@
+/* /AccountSettings/ProfileSettings.razor.rz.scp.css */
+
+/* Adăugarea unui efect de stele care strălucesc */
+@keyframes starTwinkle-b-ukgzqccltt {
+    0% { opacity: 0.5; }
+    50% { opacity: 1; }
+    100% { opacity: 0.5; }
+}
 /* /Layout/MainLayout.razor.rz.scp.css */
 .page[b-ndsf3uk8pu] {
     position: relative;
